@@ -1,0 +1,8 @@
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\bin\Debug\ExamenPatronesU2.exe.config
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\bin\Debug\ExamenPatronesU2.exe
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\bin\Debug\ExamenPatronesU2.pdb
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\obj\Debug\ExamenPatronesU2.csproj.AssemblyReference.cache
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\obj\Debug\ExamenPatronesU2.csproj.CoreCompileInputs.cache
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\obj\Debug\ExamenPatronesU2.exe
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\obj\Debug\ExamenPatronesU2.pdb
+C:\Users\valer\source\repos\ExamenPatronesU2\ExamenPatronesU2\obj\Debug\ExamenPatronesU2.exe.config
